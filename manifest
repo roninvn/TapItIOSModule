@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Nam Hoang
+license: Specify your license
+copyright: © 2012 by Nam Hoang
+
+
+# these should not be edited
+name: tapit
+moduleid: com.tapit
+guid: 9e130a2b-47c5-4524-b93f-11c471a7dc59
+platform: iphone
+minsdk: 2.1.1.GA
